@@ -1,0 +1,22 @@
+,Product,Present
+3,SAP ERP,True
+5,SAP S/4HANA,True
+12,SAP Cloud Platform,True
+20,SAP Conversational AI,True
+36,SAP BW/4HANA,True
+38,SAP Sales Cloud,True
+43,SAP SQL Anywhere,True
+46,SAP Marketing Cloud,True
+55,SAP Portfolio and Project Management,True
+67,SAP PowerDesigner,True
+82,SAP Manufacturing Integration and Intelligence,True
+85,SAP Work Manager,True
+87,SAP Contact Center,True
+97,SAP Cloud Appliance Library,True
+98,SAP Treasury and Risk Management,True
+102,SAP Data Warehouse Cloud,True
+112,SAP RealSpend,True
+114,SAP Financial Statement Insights,True
+116,SAP Sports One,True
+117,SAP Tax Compliance,True
+121,SAP Subscription Billing,True

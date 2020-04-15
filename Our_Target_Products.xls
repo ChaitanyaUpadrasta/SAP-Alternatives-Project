@@ -1,0 +1,44 @@
+,Product,Present
+3,SAP HANA,True
+4,SAP ERP,True
+5,SAP S/4HANA,True
+7,SAP Analytics Cloud,True
+8,SAP Access Control,True
+10,SAP Business One,True
+12,SAP Cloud Platform,True
+16,SAP Risk Management,True
+18,SAP Process Control,True
+20,SAP Conversational AI,True
+21,SAP Adaptive Server Enterprise,True
+24,SAP Business ByDesign,True
+32,SAP Data Services,True
+36,SAP BW/4HANA,True
+38,SAP Sales Cloud,True
+43,SAP SQL Anywhere,True
+46,SAP Marketing Cloud,True
+47,SAP Product Content Hub,True
+50,SAP Replication Server,True
+51,SAP Data Hub,True
+52,SAP Master Data Governance,True
+55,SAP Portfolio and Project Management,True
+62,SAP Audit Management,True
+65,SAP Intelligent Robotic Process Automation,True
+66,SAP PowerDesigner,True
+68,SAP Information Steward,True
+77,SAP Integrated Business Planning,True
+80,SAP Extended Enterprise Content Management by OpenText,True
+82,SAP Manufacturing Integration and Intelligence,True
+85,SAP Work Manager,True
+87,SAP Contact Center,True
+93,SAP Global Trade Services,True
+97,SAP Cloud Appliance Library,True
+98,SAP Treasury and Risk Management,True
+99,SAP Profitability and Performance Management,True
+101,SAP Service Cloud,True
+102,SAP Data Warehouse Cloud,True
+112,SAP RealSpend,True
+113,SAP Cloud for Real Estate,True
+114,SAP Financial Statement Insights,True
+116,SAP Sports One,True
+117,SAP Tax Compliance,True
+121,SAP Subscription Billing,True
