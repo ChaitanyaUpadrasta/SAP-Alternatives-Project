@@ -1,0 +1,173 @@
+,Product,Link,Alternative_for
+0,Infor ERP,https://www.trustradius.com/products/infor-erp/reviews,SAP ERP
+1,Workday Financial Management,https://www.trustradius.com/products/workday-financial-management/reviews,SAP ERP
+2,SAP HANA,https://www.trustradius.com/products/sap-hana/reviews,SAP ERP
+3,SAP BPC (Business Planning and Consolidation),https://www.trustradius.com/products/sap-planning-consolidation/reviews,SAP ERP
+4,Oracle ERP Cloud,https://www.trustradius.com/products/oracle-erp-cloud/reviews,SAP HANA
+5,Snowflake,https://www.trustradius.com/products/snowflake/reviews,SAP HANA
+6,SAP ERP,https://www.trustradius.com/products/sap-erp/reviews,SAP HANA
+7,Microsoft SQL Server,https://www.trustradius.com/products/sql-server/reviews,SAP HANA
+8,Oracle Financials Cloud,https://www.trustradius.com/products/oracle-financials-cloud/reviews,SAP S/4HANA
+9,SAP Business ByDesign,https://www.trustradius.com/products/sap-business-all-in-one/reviews,SAP S/4HANA
+10,Microsoft Dynamics 365,https://www.trustradius.com/products/microsoft-dynamics-365/reviews,SAP S/4HANA
+11,SAP Ariba Contract Management,https://www.trustradius.com/products/sap-ariba-contract-management/reviews,SAP S/4HANA
+12,SAP BPC (Business Planning and Consolidation),https://www.trustradius.com/products/sap-planning-consolidation/reviews,SAP Analytics Cloud
+13,Microsoft Power BI,https://www.trustradius.com/products/microsoft-power-bi/reviews,SAP Analytics Cloud
+14,SAP BusinessObjects Business Intelligence (BI) Platform,https://www.trustradius.com/products/sap-businessobjects-bi-platform/reviews,SAP Analytics Cloud
+15,Tableau Desktop,https://www.trustradius.com/products/tableau-desktop/reviews,SAP Analytics Cloud
+16,RSA Archer,https://www.trustradius.com/products/rsa-archer/reviews,SAP Access Control
+17,Aruba ClearPass,https://www.trustradius.com/products/aruba-clearpass/reviews,SAP Access Control
+18,SolarWinds Access Rights Manager,https://www.trustradius.com/products/access-rights-manager/reviews,SAP Access Control
+19,Sophos Network Access Control,https://www.trustradius.com/products/sophos-network-access-control/reviews,SAP Access Control
+20,Microsoft Dynamics 365,https://www.trustradius.com/products/microsoft-dynamics-365/reviews,SAP Business One
+21,Microsoft Dynamics 365 Business Central (formerly Dynamics NAV),https://www.trustradius.com/products/microsoft-dynamics-365-business-central/reviews,SAP Business One
+22,NetSuite,https://www.trustradius.com/products/netsuite/reviews,SAP Business One
+23,Odoo,https://www.trustradius.com/products/odoo/reviews,SAP Business One
+24,Microsoft Azure,https://www.trustradius.com/products/microsoft-azure/reviews,SAP Cloud Platform
+25,Amazon Web Services,https://www.trustradius.com/products/amazon-web-services/reviews,SAP Cloud Platform
+26,Dell Boomi,https://www.trustradius.com/products/dell-boomi/reviews,SAP Cloud Platform
+27,Apigee Edge,https://www.trustradius.com/products/apigee-edge/reviews,SAP Cloud Platform
+28,MetricStream M7,https://www.trustradius.com/products/metricstream-m7/reviews,SAP Risk Management
+29,HighBond,https://www.trustradius.com/products/galvanize-highbond/reviews,SAP Risk Management
+30,BusinessObjects GRC,https://www.trustradius.com/products/businessobjects-grc/reviews,SAP Risk Management
+31,Wdesk,https://www.trustradius.com/products/wdesk/reviews,SAP Risk Management
+32,"ServiceNow Governance, Risk, and Compliance",https://www.trustradius.com/products/servicenow-governance-risk-and-compliance/reviews,SAP Process Control
+33,RSA Archer,https://www.trustradius.com/products/rsa-archer/reviews,SAP Process Control
+34,HighBond,https://www.trustradius.com/products/galvanize-highbond/reviews,SAP Process Control
+35,BusinessObjects GRC,https://www.trustradius.com/products/businessobjects-grc/reviews,SAP Process Control
+36,Drift,https://www.trustradius.com/products/drift/reviews,SAP Conversational AI
+37,IBM Watson Assistant,https://www.trustradius.com/products/ibm-watson-assistant/reviews,SAP Conversational AI
+38,ServiceNow Now Platform,https://www.trustradius.com/products/servicenow-now-platform/reviews,SAP Conversational AI
+39,ManyChat,https://www.trustradius.com/products/manychat/reviews,SAP Conversational AI
+40,SAP IQ,https://www.trustradius.com/products/sap-sybase-iq/reviews,SAP Adaptive Server Enterprise
+41,SAP BW/4HANA,https://www.trustradius.com/products/sap-bw-4hana/reviews,SAP Adaptive Server Enterprise
+42,Amazon Aurora,https://www.trustradius.com/products/amazon-aurora/reviews,SAP Adaptive Server Enterprise
+43,Oracle Database,https://www.trustradius.com/products/oracle-database/reviews,SAP Adaptive Server Enterprise
+44,SAP S/4HANA,https://www.trustradius.com/products/sap-s-4hana/reviews,SAP Business ByDesign
+45,NetSuite,https://www.trustradius.com/products/netsuite/reviews,SAP Business ByDesign
+46,Microsoft Dynamics 365,https://www.trustradius.com/products/microsoft-dynamics-365/reviews,SAP Business ByDesign
+47,Sage 300cloud,https://www.trustradius.com/products/sage-300cloud/reviews,SAP Business ByDesign
+48,SSIS,https://www.trustradius.com/products/sql-server-integration-services/reviews,SAP Data Services
+49,Informatica PowerCenter,https://www.trustradius.com/products/informatica-powercenter/reviews,SAP Data Services
+50,SAP Data Hub,https://www.trustradius.com/products/sap-data-hub/reviews,SAP Data Services
+51,SAP Information Steward,https://www.trustradius.com/products/sap-information-steward/reviews,SAP Data Services
+52,SAP Data Warehouse Cloud,https://www.trustradius.com/products/sap-data-warehouse-cloud/reviews,SAP BW/4HANA
+53,Microsoft Power BI,https://www.trustradius.com/products/microsoft-power-bi/reviews,SAP BW/4HANA
+54,Microsoft SQL Server,https://www.trustradius.com/products/sql-server/reviews,SAP BW/4HANA
+55,Snowflake,https://www.trustradius.com/products/snowflake/reviews,SAP BW/4HANA
+56,Salesforce,https://www.trustradius.com/products/salesforce-com/reviews,SAP Sales Cloud
+57,SAP CRM,https://www.trustradius.com/products/sap-crm/reviews,SAP Sales Cloud
+58,Microsoft Dynamics 365,https://www.trustradius.com/products/microsoft-dynamics-365/reviews,SAP Sales Cloud
+59,Nimble,https://www.trustradius.com/products/nimble/reviews,SAP Sales Cloud
+60,Microsoft SQL Server,https://www.trustradius.com/products/sql-server/reviews,SAP SQL Anywhere
+61,SAP HANA,https://www.trustradius.com/products/sap-hana/reviews,SAP SQL Anywhere
+62,SQL Developer,https://www.trustradius.com/products/oracle-sql-developer/reviews,SAP SQL Anywhere
+63,MySQL,https://www.trustradius.com/products/mysql/reviews,SAP SQL Anywhere
+64,Adobe Marketing Cloud,https://www.trustradius.com/products/adobe-marketing-cloud/reviews,SAP Marketing Cloud
+65,HubSpot,https://www.trustradius.com/products/hubspot/reviews,SAP Marketing Cloud
+66,Oracle Siebel Enterprise Marketing Suite,https://www.trustradius.com/products/oracle-siebel-enterprise-marketing-suite/reviews,SAP Marketing Cloud
+67,Unica,https://www.trustradius.com/products/ibm-marketing-operations/reviews,SAP Marketing Cloud
+68,Salsify,https://www.trustradius.com/products/salsify/reviews,SAP Product Content Hub
+69,SAP Product Content Hub,https://www.trustradius.com/products/sap-product-content-hub/reviews,SAP Product Content Hub
+70,Agility Multichannel,https://www.trustradius.com/products/agility-multichannel/reviews,SAP Product Content Hub
+71,Informatica MDM - Product 360 (PIM),https://www.trustradius.com/products/informatica-mdm-product-360/reviews,SAP Product Content Hub
+72,Oracle GoldenGate,https://www.trustradius.com/products/oracle-goldengate/reviews,SAP Replication Server
+73,Informatica PowerCenter,https://www.trustradius.com/products/informatica-powercenter/reviews,SAP Replication Server
+74,Optim,https://www.trustradius.com/products/infosphere-optim/reviews,SAP Replication Server
+75,SSIS,https://www.trustradius.com/products/sql-server-integration-services/reviews,SAP Replication Server
+76,SAP Information Steward,https://www.trustradius.com/products/sap-information-steward/reviews,SAP Data Hub
+77,Azure Data Factory,https://www.trustradius.com/products/azure-data-factory/reviews,SAP Data Hub
+78,Matillion,https://www.trustradius.com/products/matillion/reviews,SAP Data Hub
+79,SAP Data Services,https://www.trustradius.com/products/sap-data-services/reviews,SAP Data Hub
+80,SAP Information Steward,https://www.trustradius.com/products/sap-information-steward/reviews,SAP Master Data Governance
+81,Informatica MDM,https://www.trustradius.com/products/informatica-mdm/reviews,SAP Master Data Governance
+82,Informatica Data Quality,https://www.trustradius.com/products/informatica-data-quality/reviews,SAP Master Data Governance
+83,Oracle Data Quality,https://www.trustradius.com/products/oracle-enterprise-data-quality/reviews,SAP Master Data Governance
+84,Celoxis,https://www.trustradius.com/products/celoxis/reviews,SAP Portfolio and Project Management
+85,Smartsheet,https://www.trustradius.com/products/smartsheet/reviews,SAP Portfolio and Project Management
+86,Clarizen,https://www.trustradius.com/products/clarizen/reviews,SAP Portfolio and Project Management
+87,Wrike,https://www.trustradius.com/products/wrike/reviews,SAP Portfolio and Project Management
+88,"ServiceNow Governance, Risk, and Compliance",https://www.trustradius.com/products/servicenow-governance-risk-and-compliance/reviews,SAP Audit Management
+89,RSA Archer,https://www.trustradius.com/products/rsa-archer/reviews,SAP Audit Management
+90,HighBond,https://www.trustradius.com/products/galvanize-highbond/reviews,SAP Audit Management
+91,Forcepoint DLP,https://www.trustradius.com/products/forcepoint-data-loss-prevention/reviews,SAP Audit Management
+92,UiPath Enterprise RPA Platform,https://www.trustradius.com/products/uipath-enterprise-rpa-platform/reviews,SAP Intelligent Robotic Process Automation
+93,Blue Prism Intelligent RPA,https://www.trustradius.com/products/blue-prism-intelligent-rpa/reviews,SAP Intelligent Robotic Process Automation
+94,Automation Anywhere,https://www.trustradius.com/products/automation-anywhere/reviews,SAP Intelligent Robotic Process Automation
+95,HelpSystems Automate Desktop,https://www.trustradius.com/products/helpsystems-automate-desktop/reviews,SAP Intelligent Robotic Process Automation
+96,erwin Data Modeler,https://www.trustradius.com/products/erwin-data-modeler/reviews,SAP PowerDesigner
+97,Sparx Systems Enterprise Architect,https://www.trustradius.com/products/sparx-systems-enterprise-architect/reviews,SAP PowerDesigner
+98,IBM Rational System Architect,https://www.trustradius.com/products/ibm-rational-system-architect/reviews,SAP PowerDesigner
+99,Lucidchart,https://www.trustradius.com/products/lucidchart/reviews,SAP PowerDesigner
+100,SAP Master Data Governance,https://www.trustradius.com/products/sap-master-data-governance/reviews,SAP Information Steward
+101,Collibra Platform,https://www.trustradius.com/products/collibra-platform/reviews,SAP Information Steward
+102,SAP Data Hub,https://www.trustradius.com/products/sap-data-hub/reviews,SAP Information Steward
+103,Informatica Data Quality,https://www.trustradius.com/products/informatica-data-quality/reviews,SAP Information Steward
+104,JDA Software,https://www.trustradius.com/products/jda/reviews,SAP Integrated Business Planning
+105,LLamasoft Supply Chain Guru,https://www.trustradius.com/products/llamasoft-supply-chain-guru/reviews,SAP Integrated Business Planning
+106,Oracle SCM Cloud,https://www.trustradius.com/products/oracle-scm-cloud/reviews,SAP Integrated Business Planning
+107,Anaplan,https://www.trustradius.com/products/anaplan/reviews,SAP Integrated Business Planning
+108,SAP HANA,https://www.trustradius.com/products/sap-hana/reviews,SAP Extended Enterprise Content Management by OpenText
+109,Dashpivot - By Sitemate,https://www.trustradius.com/products/dashpivot-by-sitemate/reviews,SAP Extended Enterprise Content Management by OpenText
+110,Laserfiche,https://www.trustradius.com/products/laserfiche/reviews,SAP Extended Enterprise Content Management by OpenText
+111,M‑Files,https://www.trustradius.com/products/mfiles/reviews,SAP Extended Enterprise Content Management by OpenText
+112,ChartMogul,https://www.trustradius.com/products/chartmogul/reviews,SAP Manufacturing Integration and Intelligence
+113,Fourth Analytics,https://www.trustradius.com/products/fourth-analytics/reviews,SAP Manufacturing Integration and Intelligence
+114,SAP Manufacturing Integration and Intelligence,https://www.trustradius.com/products/sap-manufacturing-integration-and-intelligence/reviews,SAP Manufacturing Integration and Intelligence
+115,AIMMS SC Navigator Platform,https://www.trustradius.com/products/aimms-sc-navigator-platform/reviews,SAP Manufacturing Integration and Intelligence
+116,BMC Helix ITSM (Remedy),https://www.trustradius.com/products/bmc-helix-itsm/reviews,SAP Work Manager
+117,Asana,https://www.trustradius.com/products/asana/reviews,SAP Work Manager
+118,Kickserv,https://www.trustradius.com/products/kickserv/reviews,SAP Work Manager
+119,ServiceTitan,https://www.trustradius.com/products/servicetitan/reviews,SAP Work Manager
+120,Expensify,https://www.trustradius.com/products/expensify/reviews,SAP Contact Center
+121,Chrome River EXPENSE,https://www.trustradius.com/products/chrome-river-expense/reviews,SAP Contact Center
+122,Genesys PureEngage,https://www.trustradius.com/products/genesys-pureengage/reviews,SAP Contact Center
+123,Five9,https://www.trustradius.com/products/five9/reviews,SAP Contact Center
+124,FIS Protegent,https://www.trustradius.com/products/fis-protegent/reviews,SAP Global Trade Services
+125,HighBond,https://www.trustradius.com/products/galvanize-highbond/reviews,SAP Global Trade Services
+126,BusinessObjects GRC,https://www.trustradius.com/products/businessobjects-grc/reviews,SAP Global Trade Services
+127,Wdesk,https://www.trustradius.com/products/wdesk/reviews,SAP Global Trade Services
+128,Amazon CloudWatch,https://www.trustradius.com/products/amazon-cloudwatch/reviews,SAP Cloud Appliance Library
+129,Oracle Enterprise Manager Cloud Control,https://www.trustradius.com/products/oracle-enterprise-manager-cloud-control/reviews,SAP Cloud Appliance Library
+130,Cloudinary,https://www.trustradius.com/products/cloudinary/reviews,SAP Cloud Appliance Library
+131,Cloud Elements,https://www.trustradius.com/products/cloud-elements/reviews,SAP Cloud Appliance Library
+132,Kyriba,https://www.trustradius.com/products/kyriba/reviews,SAP Treasury and Risk Management
+133,Fusion Treasury,https://www.trustradius.com/products/fusion-treasury/reviews,SAP Treasury and Risk Management
+134,FIS Treasury,https://www.trustradius.com/products/fis-treasury/reviews,SAP Treasury and Risk Management
+135,ACI Universal Online Banker,https://www.trustradius.com/products/aci-universal-online-banker/reviews,SAP Treasury and Risk Management
+136,SAP BPC (Business Planning and Consolidation),https://www.trustradius.com/products/sap-planning-consolidation/reviews,SAP Profitability and Performance Management
+137,SAP Analytics Cloud,https://www.trustradius.com/products/sap-analytics-cloud/reviews,SAP Profitability and Performance Management
+138,Oracle Hyperion,https://www.trustradius.com/products/oracle-hyperion-enterprise-performance-management/reviews,SAP Profitability and Performance Management
+139,Oracle EPM Cloud,https://www.trustradius.com/products/oracle-enterprise-performance-management-epm-cloud/reviews,SAP Profitability and Performance Management
+140,BMC Helix ITSM (Remedy),https://www.trustradius.com/products/bmc-helix-itsm/reviews,SAP Service Cloud
+141,Microsoft Project,https://www.trustradius.com/products/microsoft-project/reviews,SAP Service Cloud
+142,Genesys PureEngage,https://www.trustradius.com/products/genesys-pureengage/reviews,SAP Service Cloud
+143,Five9,https://www.trustradius.com/products/five9/reviews,SAP Service Cloud
+144,SAP BW/4HANA,https://www.trustradius.com/products/sap-bw-4hana/reviews,SAP Data Warehouse Cloud
+145,Snowflake,https://www.trustradius.com/products/snowflake/reviews,SAP Data Warehouse Cloud
+146,Google BigQuery,https://www.trustradius.com/products/google-bigquery/reviews,SAP Data Warehouse Cloud
+147,Oracle Data Warehouse,https://www.trustradius.com/products/oracle-data-warehouse/reviews,SAP Data Warehouse Cloud
+148,Divvy,https://www.trustradius.com/products/divvy/reviews,SAP RealSpend
+149,Expensify,https://www.trustradius.com/products/expensify/reviews,SAP RealSpend
+150,"Abacus, by Emburse",https://www.trustradius.com/products/emburse-abacus/reviews,SAP RealSpend
+151,Xero,https://www.trustradius.com/products/xero/reviews,SAP RealSpend
+152,CoStar Real Estate Manager,https://www.trustradius.com/products/costar-real-estate-manager/reviews,SAP Cloud for Real Estate
+153,kvCORE,https://www.trustradius.com/products/kvcore/reviews,SAP Cloud for Real Estate
+154,VTS,https://www.trustradius.com/products/vts/reviews,SAP Cloud for Real Estate
+155,Brokermint,https://www.trustradius.com/products/brokermint/reviews,SAP Cloud for Real Estate
+156,Microsoft Dynamics SL,https://www.trustradius.com/products/microsoft-dynamics-sl/reviews,SAP Financial Statement Insights
+157,Oracle ERP Cloud,https://www.trustradius.com/products/oracle-erp-cloud/reviews,SAP Financial Statement Insights
+158,Financial Edge NXT,https://www.trustradius.com/products/financial-edge-nxt/reviews,SAP Financial Statement Insights
+159,Xero,https://www.trustradius.com/products/xero/reviews,SAP Financial Statement Insights
+160,iMIS,https://www.trustradius.com/products/imis/reviews,SAP Sports One
+161,Personify360,https://www.trustradius.com/products/personify360/reviews,SAP Sports One
+162,NetForum by Community Brands,https://www.trustradius.com/products/netforum-by-community-brands/reviews,SAP Sports One
+163,123 Signup Association Manager,https://www.trustradius.com/products/123-signup-association-manager/reviews,SAP Sports One
+164,Vertex O Series,https://www.trustradius.com/products/vertex-o-series/reviews,SAP Tax Compliance
+165,Avalara,https://www.trustradius.com/products/avalara/reviews,SAP Tax Compliance
+166,Vertex Cloud,https://www.trustradius.com/products/vertex-cloud/reviews,SAP Tax Compliance
+167,Canopy,https://www.trustradius.com/products/canopy/reviews,SAP Tax Compliance
+168,Zuora,https://www.trustradius.com/products/zuora/reviews,SAP Subscription Billing
+169,Chargebee,https://www.trustradius.com/products/chargebee/reviews,SAP Subscription Billing
+170,Braintree,https://www.trustradius.com/products/braintree/reviews,SAP Subscription Billing
+171,Recurly,https://www.trustradius.com/products/recurly/reviews,SAP Subscription Billing
